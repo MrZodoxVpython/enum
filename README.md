@@ -1,1 +1,1 @@
-new latest feature dwm
+new latest dmenu features for dwm
